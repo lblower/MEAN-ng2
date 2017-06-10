@@ -1,0 +1,21 @@
+{
+  "name": "mean",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Himanshu Adeptical <himanshu@adeptical.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/dist/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  "bootstrap": "*"
+}
+}
