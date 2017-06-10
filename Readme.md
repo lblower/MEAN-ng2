@@ -14,7 +14,7 @@ To configure your own MongoLab connection one must change in 'routes/todos.js' f
 
 Clone this project then move in project directory and make sure you have 
 globally installed @angular-cli (for ng build), bower for bootstrap installation.
-1. npm install
+1. npm install  &&  cd client  && npm install
 
 2. For Linux User Run: sh setup.sh
    For Windows Run: 2.1 bower install in MEAN (Main folder)
